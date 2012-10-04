@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Dear Sophie]]></title>
   <link href="http://dvberkel.github.com/dear_sophie/atom.xml" rel="self"/>
   <link href="http://dvberkel.github.com/dear_sophie/"/>
-  <updated>2012-10-04T15:51:13+02:00</updated>
+  <updated>2012-10-04T16:02:07+02:00</updated>
   <id>http://dvberkel.github.com/dear_sophie/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Female Role Models]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
