@@ -1,3 +1,18 @@
+Dear Sophie
+===========
+
+Dear Sophie is an attempt to share motivational advice for aspiring
+women in technology by writting to Sophie.
+
+Current society is harsh for aspiring female technocrati and by
+actively seeking out female role models I hope to counter that bias.
+
+Setup
+-----
+
+The blog is generated with Octopress. The rest of the README is taken
+from the [octopress repository](https://github.com/imathis/octopress).
+
 ## What is Octopress?
 
 Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.
