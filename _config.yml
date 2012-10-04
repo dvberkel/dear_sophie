@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://dvberkel.github.com/dear_sophie
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Dear Sophie
+subtitle: If you every doubt pursuing a technical job...
+author: Female Role Models
 simple_search: http://google.com/search
-description:
+description: motivational articles for women from women in tech
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
