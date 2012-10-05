@@ -109,6 +109,13 @@ task :new_post, :title do |t, args|
     post.puts "comments: true"
     post.puts "categories: "
     post.puts "---"
+    post.puts "## When did you knew you wanted to became a [job description]?"
+    post.puts ""
+    post.puts "## Who supported you in achieving your goal?"
+    post.puts ""
+    post.puts "## Who are your role models?"
+    post.puts ""
+    post.puts "## What advice can you give if I want to persue technical job?"
   end
 end
 

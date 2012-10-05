@@ -10,8 +10,37 @@ actively seeking out female role models I hope to counter that bias.
 Setup
 -----
 
-The blog is generated with Octopress. The rest of the README is taken
-from the [octopress repository](https://github.com/imathis/octopress).
+The blog is generated with [Octopress][1]. The `rake
+new_post['title']` is customized to include some examplar questions which can
+be used as a guidance. But feel free to advice Sophie in any way you
+see fit.
+
+See the octopress [documentation][2] for advice on how to work with
+octopress.
+
+If you do not want to use octopress you can also create a file under
+`source/_posts` with the following naming convention:
+`YYYY-MM-DD-post-title.markdown`. Template is reproduced below for
+this scenario.
+
+    ---
+    layout: post
+    title: "title"
+    author: "Anonymous"
+    date: YYYY-MM-DD 12:34
+    comments: true
+    categories: 
+    ---
+    ## When did you knew you wanted to became a [job description]?
+
+    ## Who supported you in achieving your goal?
+    
+    ## Who are your role models?
+
+    ## What advice can you give if I want to persue technical job?
+
+The rest of the README is taken from the [octopress
+repository][1].
 
 ## What is Octopress?
 
@@ -49,3 +78,6 @@ THE SOFTWARE IS PROVIDED ‘AS IS’, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 #### If you want to be awesome.
 - Proudly display the 'Powered by Octopress' credit in the footer.
 - Add your site to the Wiki so we can watch the community grow.
+
+[1]: https://github.com/imathis/octopress "Github repository for octopress"
+[2]: http://octopress.org/docs/ "Octopress documentation"
